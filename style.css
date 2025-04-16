@@ -25,3 +25,20 @@ header img {
 .image_9 {
     width: 60vw;
 }
+.mirepa {
+    width: 20vw;
+}
+.bottom_div {
+    width: 100vw;
+    height: 50vh;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+.bottom_div div {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    font-size: 20px;
+}
